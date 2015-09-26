@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#This is the complete code for the hierarchical filesystem implemented using FUSE for the 2nd assignment. 
 
 import logging
 
