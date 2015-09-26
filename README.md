@@ -1,3 +1,3 @@
 # pocsd
 Backup for all PoCSD codes
-This repository contains all PoCSD-related materials. 
+This repository contains a backup of PoCSD-related course materials. 
